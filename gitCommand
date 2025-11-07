@@ -2,3 +2,9 @@ first git init command
 //git init
 next git add .
 //git add .
+
+next git commit 
+// git commit -m "first commit"
+
+next git branch
+// git branch

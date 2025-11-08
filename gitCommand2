@@ -5,3 +5,10 @@ this is file checkout how works ?
 //git log --online
 that means  we want to see push 
 file in which there we can use this git 
+
+what is git stash?
+  It stores a temporarily uncommit value 
+  //git stash
+what is git stash pop?
+It restore a changes  
+
